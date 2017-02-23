@@ -1,0 +1,5 @@
+dist
+node_modules
+trace
+npm-debug.log
+cache
